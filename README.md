@@ -7,16 +7,22 @@ machine, before the commit: real builds, the tests your change actually reaches,
 fix, and receipts bound to the exact inputs they checked. It works with the agents you already use: Claude Code,
 Codex and Grok.
 
-Website: <https://cotterpin.io>
+| | |
+|---|---|
+| Website | <https://cotterpin.io> |
+| PyPI (where Cotterpin is released) | [pypi.org/project/cotterpin](https://pypi.org/project/cotterpin/) |
+| npm (name reservation) | [npmjs.com/package/cotterpin](https://www.npmjs.com/package/cotterpin) |
+| Changelog | <https://cotterpin.io/changelog.html> |
 
 ## Status
 
-**Cotterpin 0.3.0 is the first working release, and it is in preparation.** Until it is published, the packages
-named `cotterpin` on PyPI and npm are name reservations (0.0.1) that install nothing useful. Watch this repository's
-releases or <https://cotterpin.io/changelog.html> for 0.3.0.
+**Cotterpin 0.3.0 is the first working release, and it is in preparation.** It will be released on
+[PyPI](https://pypi.org/project/cotterpin/). Until then, the packages named `cotterpin` on PyPI and
+[npm](https://www.npmjs.com/package/cotterpin) are name reservations that install nothing useful. Watch this
+repository's releases or <https://cotterpin.io/changelog.html> for 0.3.0.
 
 **Founding Developers:** the first 50 developers on each language pack use Cotterpin Pro free.
-[See the offer and apply](https://cotterpin.io).
+[See the offer and apply](https://cotterpin.io/pricing/#founding).
 
 ## What is in this repository
 
